@@ -23,7 +23,7 @@
 
 ## Architecture
 
-<p align="center">
+<p>
  <img src="images/architecture.png" width="70%" height="70%">
 </p>
 
@@ -31,16 +31,16 @@
 
 ## ERD
 
-<p align="center">
+<p>
  <img src="images/erd.png">
- https://www.erdcloud.com/d/tFRNX4nap2Wv5kQFy
 </p>
+https://www.erdcloud.com/d/tFRNX4nap2Wv5kQFy
 
 <br><br>
 
 ## Entity-Diagram
 
-<p align="center">
+<p>
  <img src="images/entitydiagram.png">
 </p>
 
@@ -48,7 +48,7 @@
 
 ## Code review
 
-<p align="center" float="left">
+<p float="left">
  <img src="images/codereview1.png">
   
  <img src="images/codereview2.png">
@@ -58,13 +58,15 @@
 
 ## Examples
 
-<p align="center" float="left">
+<p float="left">
  <img src="images/example1.png">
   
  <img src="images/example2.png">
-  
- <img src="images/example3.png">
+</p>
+
 <p float="left">
+ <img src="images/example3.png">
+</p>
 
 <br><br>
 
